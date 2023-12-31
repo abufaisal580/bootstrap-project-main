@@ -1,0 +1,17 @@
+.text-one{
+    border: solid 1px;
+    border-radius: 15px;
+    font-weight: bold;
+}
+.text-one:hover{
+    background-color: black;
+    color: aliceblue;
+    cursor: pointer;
+}
+.text-two{
+    width: 125px;
+    height: 20px;
+    font-size: small;
+    background-color: gray;
+    border-radius: 8px;
+}
